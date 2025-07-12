@@ -3,4 +3,4 @@ A simple and basic application to count and log the number of people that enter 
 
 This is a mini-project done as a refresher to JavaScript basics.
 
-Check it out here! -> https://people-counter-yqhi.onrender.com/
+Check it out here! -> https://pplcounter.netlify.app/
